@@ -4,7 +4,7 @@
 
 Este projeto é uma forma de simular um pedido de delivery em uma hamburgueria.
 
-## 🚀 Finalizado!
+## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
 Vue
