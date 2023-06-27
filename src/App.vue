@@ -64,7 +64,7 @@ body {
   margin-inline: auto;
 }
 section {
-  margin-block-start: 8rem;
+  margin-block-start: 3.5rem;
   height: 100vh;
 }
 h1, h2, h3, h4, h5, h6 {

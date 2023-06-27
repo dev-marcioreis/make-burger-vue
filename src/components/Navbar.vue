@@ -40,6 +40,7 @@
         background: #003F83;
         height: 3.5rem;
         box-shadow: 0px 3px 6px #00000066;
+        z-index: 999;
     }
     .navbar-container {
         display: flex;
