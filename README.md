@@ -1,19 +1,18 @@
-# make-burger-vue
+### Make Burger
 
-## Project setup
-```
-yarn install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Este projeto é uma forma de simular um pedido de delivery em uma hamburgueria.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 🚀 Finalizado!
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 📋 Tecnologias
+Vue
+
+## ✒️ Autor
+Márcio Reis
+
+😊 Link de acesso: 
+
+---
+
