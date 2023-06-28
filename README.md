@@ -2,7 +2,7 @@
 
 ---
 
-Este projeto é uma forma de simular um pedido de delivery em uma hamburgueria.
+Este projeto é um simulador de pedidos em um delivery de hamburgueria.
 
 ## 🚀 Em desenvolvimento...
 
