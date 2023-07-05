@@ -24,6 +24,7 @@
     box-shadow: 0px 3px 6px #00000066;
     padding: 3rem 0;
     text-align: center;
+    margin-block-start: 25rem;
   }
 
 </style>
