@@ -15,6 +15,7 @@ Márcio Reis
 😊 Link de acesso: https://make-burger-vue.vercel.app/
 
 ---
-![image](https://github.com/dev-marcioreis/make-burger-vue/assets/122680054/38cf1765-4230-4b2e-98fe-3eb35c1192e3)
+![image](https://github.com/dev-marcioreis/make-burger-vue/assets/122680054/1046d92e-a24c-4d25-849e-cb1b404a38ec)
+
 
 
