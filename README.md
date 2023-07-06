@@ -2,12 +2,12 @@
 
 ---
 
-Este projeto é um simulador de pedidos em um delivery de hamburgueria.
+Este projeto é um simulador de pedidos em um delivery de hamburgueria.<br>
 
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-Vue
+Vue.js
 
 ## ✒️ Autor
 Márcio Reis
